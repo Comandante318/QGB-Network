@@ -183,7 +183,7 @@ elif menu == "💸 BILLETERA / TRANSFERIR":
     with col_a:
         st.markdown("### 📤 Enviar Fondos")
         destinatario = st.text_input("Dirección de Destino (0x...)", value=marketing_address)
-        monto = st.number_input("Cantidad de QGB", min_value=1.0, max_value=float(balance))
+        monto = st.number_input("Cantidad de QGB", min_value=0.0, max_value=float(balance))
         
         if st.button("AUTORIZAR ENVÍO"):
             with st.spinner("Validando firma cuántica..."):
