@@ -1,0 +1,18 @@
+[
+    {
+        "bloque": 0,
+        "nacimiento_oficial": "2026-01-24",
+        "inicio_trabajo_cuantico": "2026-01-08",
+        "id_ibm_nodo": "d5foqunea9qs73904cgg",
+        "suministro_total": 21000000,
+        "hash_maestro": "470e324d5aed6fe7a7baed9c33f9ef535913c624762f65ac21056fd30f7d1444",
+        "autoridad": "SMBZ36"
+    },
+    {
+        "index": 1,
+        "timestamp": "2026-01-26",
+        "proof": 35293,
+        "previous_hash": "31fe7391dce558e1185a85499ce11a984636a0af9069c921915e90fe81d715fb",
+        "authority": "SMBZ36 - VALIDADO POR IBM TORINO"
+    }
+]
