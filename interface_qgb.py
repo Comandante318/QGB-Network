@@ -244,3 +244,5 @@ elif menu == "🤖 GENESIS AI":
         user_ask = st.text_input("Pregúntale algo a la Red...")
         if user_ask:
             st.write(f"🧠 **Análisis:** Procesando '{user_ask}' con entropía de IBM Torino... (Simulación)")
+
+#ACTUALIZACION FORZADA DE SALDO
