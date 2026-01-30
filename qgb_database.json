@@ -1,8 +1,8 @@
 {
-  "chain": [],
-  "pending_transactions": [],
-  "balances": {
-    "0xd0aa7d261271b8ad9e5a9467c019b4b1addf83ce": 20998000.0,
-    "0xMARKETING_FUND_DEV_ALLOCATION_888": 2000.0
-  }
+    "chain": [],
+    "pending_transactions": [],
+    "balances": {
+        "0xd0aa7d261271b8ad9e5a9467c019b4b1addf83ce": 20998000.0,
+        "0xMARKETING_FUND_DEV_ALLOCATION_888": 2000.0
+    }
 }
